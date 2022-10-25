@@ -1,5 +1,9 @@
 # CS571 Week 02: Badger Bookstore
 
+This is for Cole's 571 Homework 2
+
+<!-- # CS571 Week 02: Badger Bookstore
+
 Welcome to Badger Bookstore! For this assignment, you will be completing the functionality of `app.js` and `helper.js`. Following, you will complete the prototyping assignment in this `README.md`.  **Make sure to complete both the "JavaScript Intermediate Concepts" and "Prototyping" sections.**
 
 ## JavaScript Intermediate Concepts
@@ -88,3 +92,4 @@ Use [Figma](https://www.figma.com/) to develop a *low-fidelity* prototype of a b
 You can assume all browsing is anonymous; there is no need to create a login flow. You must use Figma's "prototype" functionality, e.g. the user of the prototype should be able to use buttons and hyperlinks to navigate rather than arrow keys. Not all buttons and hyperlinks need to be clickable; the prototype only needs to meet the given three requirements.
 
 Please paste a link to your Figma prototype here. **Make sure the link is set to public!** If it is not, we will not be able to access or grade your prototype. You can test this by opening the link in an incognito/private window. Have fun and be creative!
+ -->
