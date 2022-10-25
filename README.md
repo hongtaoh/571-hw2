@@ -2,6 +2,41 @@
 
 This is for Cole's 571 Homework 2
 
+## What I learned from this exercise
+
+### How to use API:
+
+```js
+fetch(API_URL)
+.then(res => res.json())
+.then(something => {
+    // do your work
+    })
+```
+
+### setAttribute
+
+```js
+const e = document.getElementById("yourelementID")
+e.setAttribute('attribute', 'value')
+```
+
+### for loop
+
+```js
+for (let i = 0; i < array.length; i++) {
+    // do your work
+}
+```
+
+### Bootstrap
+
+```js
+col col-sm-12 col-md-6 col-lg-3 col-xl-3
+```
+
+`-12` mean one column. `-6` mean 2 columns. ETC.
+
 <!-- # CS571 Week 02: Badger Bookstore
 
 Welcome to Badger Bookstore! For this assignment, you will be completing the functionality of `app.js` and `helper.js`. Following, you will complete the prototyping assignment in this `README.md`.  **Make sure to complete both the "JavaScript Intermediate Concepts" and "Prototyping" sections.**
