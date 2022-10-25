@@ -1,0 +1,37 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="styles.css">
+
+<html>
+    <title>Badger Bookstore</title>
+    <img src="assets/banner.jpg" height="200" width="600" />
+
+    <body>
+        <h1>Badger Bookstore</h1>
+        <p>Check out our selection of books below!</p>
+
+        <h2>Featured Book</h2>
+        <div class='featured-card'>
+            <div class='card'>
+                <div class='card-header'>
+                    <img id="featuredBookImage" class="featured-card-image" alt="Featured Book"/>
+                </div>
+                <div class='card-body'>
+                    <h3 id="featuredBookName"></h3>
+                    <p>Written by <b id="featuredBookAuthor"></b></p>
+                </div>
+            </div>
+        </div>
+        
+        <br>
+
+        <h2>All Other Books</h2>
+        <div class="container-fluid">
+            <div class="row" id="allOtherBooks"></div>
+        </div>
+    </body>
+
+</html>
+
+<script src="helper.js"></script>
+<script src="app.js"></script>
